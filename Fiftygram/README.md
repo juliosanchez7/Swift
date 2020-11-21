@@ -6,18 +6,18 @@ First of all, whe you enter to the application, the application offer the option
 
 There are cupple of filter opcions such as: 
 
-##Sepia: 
+### Sepia: 
 
 <a><img src="https://user-images.githubusercontent.com/66069314/99881094-8abbca00-2be5-11eb-8f66-345b4db2b96b.png" width="250" ></a>
 
-##Noir: 
+### Noir: 
 
 <a><img src="https://user-images.githubusercontent.com/66069314/99881095-8b546080-2be5-11eb-9069-9a981cab6730.png" width="250" ></a>
 
-##Vintage: 
+### Vintage: 
 
 <a><img src="https://user-images.githubusercontent.com/66069314/99881096-8becf700-2be5-11eb-9f3b-36caa235499a.png" width="250" ></a>
 
-##Bloom:
+### Bloom:
 
 <a><img src="https://user-images.githubusercontent.com/66069314/99881097-8c858d80-2be5-11eb-9473-58608d51898a.png" width="250" ></a>
