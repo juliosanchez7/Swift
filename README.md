@@ -11,3 +11,7 @@ FiftyGram is an App were you can select photos from your library and apply some 
 ## Pokedex: 
 
 Pokedex is an App were you can catch and releas more that 151 Pokemons and you can see some important data about each Pokemon.
+
+## Computer vision App:
+
+Is an App that use computer vision and Machine Learning models to classify images and detect wich animal or object is in the photo.
