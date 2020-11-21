@@ -1,4 +1,4 @@
-# Computer-vision-Swift
+# Pokedex App
 <a><img src="https://user-images.githubusercontent.com/66069314/99881091-8a233380-2be5-11eb-871e-48caf002a0d7.png" width="250"></a>
 ## How it works!
 I did this App usin swift progamming language and some libraries and API´s that this laguage offer.
