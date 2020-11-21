@@ -1,4 +1,4 @@
-# Computer-vision-Swift
+# Computer Vision App
 <a><img src="https://user-images.githubusercontent.com/66069314/99753238-e0905500-2ab3-11eb-8a0b-28e50ecd74a7.PNG" width="250"></a>
 ## How it works!
 I did this App usin swift progamming language and some libraries and API´s that this laguage offer.
